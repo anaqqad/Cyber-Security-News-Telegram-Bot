@@ -2,9 +2,9 @@
 
 A Python script that scrapes the web for cyber security news and sends it to a Telegram channel.
 
-<div style="text-align: center;">
+<p align="center">
   <img src="telegram_channel.jpg" alt="A cyber security news channel in Telegram." width="300">
-</div>
+</p>
 
 ## Overview
 
@@ -19,13 +19,14 @@ To run the script, you'll need the following:
 - `beautifulsoup4` library (`pip install beautifulsoup4`)
 - `pyshorteners` library (`pip install pyshorteners`)
 - `python-telegram-bot` library (`pip install python-telegram-bot`)
+- `nest-asyncio` library (`pip install nest-asyncio`)
 
 ## Usage
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/cyber-security-news-bot.git
+   git clone https://github.com/NAQQAD/cyber-security-news-bot.git
 
 2. Install the required dependencies:
 
