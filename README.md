@@ -25,7 +25,7 @@ To run the script, you'll need the following:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/cyber-security-news-bot.git
+   git clone https://github.com/NAQQAD/cyber-security-news-bot.git
 
 2. Install the required dependencies:
 
