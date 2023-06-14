@@ -2,6 +2,8 @@
 
 A Python script that scrapes the web for cyber security news and sends it to a Telegram channel.
 
+![A cyber security news channel in Telegram.](telegram_channel.jpg)
+
 ## Overview
 
 This script allows you to scrape the web for the latest cyber security news and send it to a specified Telegram channel using a Telegram bot. The script performs a Google News search for "cybersecurity" and retrieves news articles from the current day. It then shortens the article links and sends each article's title and shortened link to the Telegram channel.
