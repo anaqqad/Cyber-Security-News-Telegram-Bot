@@ -19,6 +19,7 @@ To run the script, you'll need the following:
 - `beautifulsoup4` library (`pip install beautifulsoup4`)
 - `pyshorteners` library (`pip install pyshorteners`)
 - `python-telegram-bot` library (`pip install python-telegram-bot`)
+- `nest-asyncio` library (`pip install nest-asyncio`)
 
 ## Usage
 
