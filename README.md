@@ -2,9 +2,9 @@
 
 A Python script that scrapes the web for cyber security news and sends it to a Telegram channel.
 
-<div style="text-align: center;">
+<p align="center">
   <img src="telegram_channel.jpg" alt="A cyber security news channel in Telegram." width="300">
-</div>
+</p>
 
 ## Overview
 
