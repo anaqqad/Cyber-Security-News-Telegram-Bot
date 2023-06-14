@@ -32,7 +32,7 @@ To run the script, you'll need the following:
 
    ```bash
    pip install -r requirements.txt
-
+   ```
 3. Obtain a Telegram Bot API token:
 
   - Go to BotFather on Telegram.
@@ -55,8 +55,9 @@ To run the script, you'll need the following:
 
 6. Run the script:
 
-```bash
-python CyberSleuthBot.py
+   ```bash
+   python CyberSleuthBot.py
+   ```
 
 ## Contributing
 
