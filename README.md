@@ -1,6 +1,6 @@
 # Cyber Security News Telegram Bot
 
-A Python script that scrapes the web for cyber security news and sends it to a Telegram channel.
+A Python script that scrapes the web for cyber security news and sends them to a Telegram channel.
 
 <p align="center">
   <img src="telegram_channel.jpg" alt="A cyber security news channel in Telegram." width="300">
